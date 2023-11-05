@@ -12,12 +12,11 @@
      let d:f32 = input1.trim().parse().expect("Not a valid number");
 
      println!("Enter time in hours");
-     io::stdin().read_line(&mut input1).expect("Not a valid string");
+     io::stdin().read_line(&mut input2).expect("Not a valid string");
      let t:f32 = input2.trim().parse().expect("Not a valid number");
 
-     let mut speed:f32 = d / t;
-     speed = speed.sqrt();
-
+     let d_km = d * 1.609;
+     let speed:f32 = d_km / t;
 
      println!("Speed of a car: {}", speed);
     
