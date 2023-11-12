@@ -1,6 +1,6 @@
   //Rust program to display a menu
 
-  use std::io
+  use std::io;
 
   fn main() {
 
@@ -45,19 +45,19 @@
     let ecost:f64 = 2000.0;
     let wcost:f64 = 2500.0;
 
-    let p = input1 * acost;
+    let p = a * pcost;
 
-    let f = input2 * bcost;
+    let f = b * fcost;
 
-    let a = input3 * ccost;
+    let a = c * acost;
 
-    let e = input4 * dcost;
+    let e = d * ecost;
 
-    let w = input5 * ecost;
+    let w = e * wcost;
 
-    let total = p + f + a + e + w;
+    let bill = p + f + a + e + w;
 
-    if total > 10000.0 {
+    if bill > 10000.0 {
         let discount = 0.95 * bill;
         println!("\nYou have a discount of 5% and your new bill is {}",discount );
     }
