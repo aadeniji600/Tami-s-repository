@@ -13,7 +13,7 @@
     let age:i32 = input1.trim().parse().expect("Not a valid number");
 
     println!("Enter number of years of experience: ");
-    io::stdin().read_line(&mut input2).expect("Not a valid string number");
+    io::stdin().read_line(&mut input2).expect("Not a valid string");
     let experience:i32 = input2.trim().parse().expect("Not a valid number");
 
     if age >= 40 && experience >= 5 
