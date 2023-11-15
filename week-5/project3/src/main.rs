@@ -11,7 +11,6 @@
     println!("\nA portion of eba and egusi soup is N2000");
     println!("\nA portion of white rice and stew is N2500");
 
-    println!("");
 
     let mut input1 = String::new();
     let mut input2 = String::new();
@@ -51,11 +50,11 @@
 
     let a = c * acost;
 
-    let e = d * ecost;
+    let _e = d * ecost;
 
     let w = e * wcost;
 
-    let bill = p + f + a + e + w;
+    let bill = p + f + a + _e + w;
 
     if bill > 10000.0 {
         let discount = 0.95 * bill;

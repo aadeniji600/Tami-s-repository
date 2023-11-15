@@ -9,7 +9,7 @@
     let mut input2 = String::new();
 
     println!("Enter your age: ");
-    io::stdin().read_line(&mut input1).expect("Not a valid string");
+    io::stdin().read_line(&mut input1).expect("Not a valid string");   
     let age:i32 = input1.trim().parse().expect("Not a valid number");
 
     println!("Enter number of years of experience: ");
@@ -18,7 +18,7 @@
 
     if age >= 40 && experience >= 5 
     {
-       println!("\nYour incentive is 1_560_0000");
+       println!("\nYour incentive is 1_560_000");
     }
     else if age >= 30 && age < 40 && experience >= 5
     {

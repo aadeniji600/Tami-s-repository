@@ -13,9 +13,9 @@ fn main() {
 
     // division
     let quotient = 56.7 / 32.2;
-    println!("The division of 56.7and 32.2 = {}", quotient);
+    println!("The division of 56.7 and 32.2 = {}", quotient);
 
     // remainder
     let remainder = "43 % 5";
-    println!("The remainder of 43 nd 5 = {}", remainder);    
+    println!("The remainder of 43 and 5 = {}", remainder);    
 }
