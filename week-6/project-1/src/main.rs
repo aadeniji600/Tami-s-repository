@@ -36,6 +36,7 @@
   io::stdin().read_line(&mut i3).expect("Not a valid string");
   let _i3 :i32 = i3.trim().parse().expect("Not a valid number");
 
+
   //display info
   println!("Your name is {} ", input1);
   println!("Your department is {} ", input3);
