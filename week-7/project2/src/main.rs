@@ -1,3 +1,10 @@
+//Rust programt to ask the number of siblings from a client
+
+use std::io;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Welcome to The National Information Center
+              \nAnswer the following questions");
+
+    
 }
