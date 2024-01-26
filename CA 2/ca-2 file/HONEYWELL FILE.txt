@@ -1,0 +1,12 @@
+This file contains all the information for Honeywell Nigeria PLC
+
+Company: Honeywell Nigeria PLC
+
+Shares: 34,000,000
+
+Liabilities: 9,000,00
+
+Founding year: 1906
+
+Percentage levrage: 73.53%
+

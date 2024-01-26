@@ -1,0 +1,12 @@
+This file contains all the information for Unilever Nigeria PLC
+
+Company: Unilever Nigeria PLC
+
+Shares: 37,000,000
+
+Liabilities: 11,000,00
+
+Founding year: 1923
+
+Percentage levrage: 70.27%
+

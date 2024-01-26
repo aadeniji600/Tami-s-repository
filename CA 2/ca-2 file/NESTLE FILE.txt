@@ -1,0 +1,12 @@
+This file contains all the information for Nestle Nigeria PLC
+
+Company: Nestle Nigeria PLC
+
+Shares: 8,000,000
+
+Liabilities: 1,500,00
+
+Founding year: 1961
+
+Percentage levrage: 81.25%
+

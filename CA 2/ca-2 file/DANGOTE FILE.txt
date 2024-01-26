@@ -1,0 +1,12 @@
+This file contains all the information for Sugar Refinery PLC
+
+Company: Dangote Sugar Refinery PLC
+
+Shares: 18,000,000
+
+Liabilities: 10,000,00
+
+Founding year: 1970
+
+Percentage levrage: 44.44%
+

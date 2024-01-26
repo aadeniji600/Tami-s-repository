@@ -1,0 +1,12 @@
+This file contains all the information for Flour Mills Nigeria PLC
+
+Company: Flour Mills Nigeria PLC
+
+Shares: 32,000,000
+
+Liabilities: 4,500,00
+
+Founding year: 1960
+
+Percentage levrage: 87.50%
+

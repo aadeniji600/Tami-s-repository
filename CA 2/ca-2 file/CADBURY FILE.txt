@@ -1,0 +1,12 @@
+This file contains all the information for Cadbury Nigeria Plc
+
+Company: Cadbury Nigeria Plc
+
+Shares: 15,000,000
+
+Liabilities: 5,500,00
+
+Founding year: 1965
+
+Percentage levrage: 63.33%
+

@@ -1,0 +1,14 @@
+This file contains all the companies with a percentage levrage greater than 20,000,000
+
+COMPANY NAME               LEVRAGE(%)
+
+Champion Breweries PLC        68.00
+
+Flour Mills Nigeria PLC       87.50
+
+Unilever Nigeria PLC          70.27
+
+Honeywell Nigeria PLC         73.53
+
+Nigerian Breweries PLC        60.00
+

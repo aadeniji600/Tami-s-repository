@@ -1,0 +1,12 @@
+This file contains all the information for Champion Breweries PLC
+
+Company: Champion Breweries PLC
+
+Shares: 25,000,000
+
+Liabilities: 8,500,00
+
+Founding year: 1975
+
+Percentage levrage: 68.00%
+

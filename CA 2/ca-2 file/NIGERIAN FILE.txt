@@ -1,0 +1,12 @@
+This file contains all the information for Nigerian Breweries PLC
+
+Company: Nigerian Breweries PLC
+
+Shares: 30,000,000
+
+Liabilities: 12,000,00
+
+Founding year: 1946
+
+Percentage levrage: 60.00%
+
