@@ -1,3 +1,4 @@
+//Rust program to calculate the sum and average
 fn main() {
 	let a:f64 = 450000.00;
 	let b:f64 = 1500000.00;

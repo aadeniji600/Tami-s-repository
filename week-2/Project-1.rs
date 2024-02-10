@@ -1,3 +1,4 @@
+//Rust code to calculate compound intrest
 fn main() {
 	let p:f64 = 520000000.00;
 	let r:f64 = 10.0;
